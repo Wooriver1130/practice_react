@@ -1,0 +1,111 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "4",
+      "day": 4
+    },
+    {
+      "id": "5",
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": "2",
+      "day": 1,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": "7",
+      "day": 3,
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "8",
+      "day": 3,
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "9",
+      "day": 2,
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": "bb08",
+      "day": "1",
+      "eng": "strong",
+      "kor": "강한",
+      "inDone": false,
+      "isDone": false
+    },
+    {
+      "id": "0b61",
+      "day": "2",
+      "eng": "run",
+      "kor": "달리다",
+      "inDone": false
+    },
+    {
+      "id": "30bd",
+      "day": "4",
+      "eng": "jolida",
+      "kor": "졸리다",
+      "inDone": false
+    },
+    {
+      "id": "7f73",
+      "day": "4",
+      "eng": "phigon",
+      "kor": "피곤",
+      "inDone": false
+    },
+    {
+      "id": "1f7b",
+      "day": "2",
+      "eng": "coumputer",
+      "kor": "큼퓨터",
+      "isDone": false
+    },
+    {
+      "id": "378e",
+      "day": "1",
+      "eng": "bird",
+      "kor": "새",
+      "isDone": true
+    }
+  ]
+}
